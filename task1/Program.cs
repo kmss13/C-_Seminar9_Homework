@@ -13,7 +13,6 @@ void func(int arg1, int arg2)
 {
     if (arg1 > arg2)
     {
-        Console.WriteLine("Первое число больше второго");
         return;
     }
     if (arg1 % 2 == 0)
